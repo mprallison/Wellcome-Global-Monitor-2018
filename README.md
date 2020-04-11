@@ -18,3 +18,9 @@ Perhaps improving availability, making things mandatory or paying people to get 
 
 I don't know anything about psychology/social psychology, but imagine these diciplines would inform prospective answers. 
 This is just a first look at some avenues which could be pursued in light of Global Monitor 2018 data. 
+
+
+I did some scaling of the orginal data to produce one .csv file with working data and an additonal .xlsx with a questions legend
+
+https://drive.google.com/open?id=198wh4hF7fRfA9oW_3NsLwbZpo6qw0nSa .csv
+https://drive.google.com/open?id=10OGeK-TgZyntYadoqCoH_Ccj7agsPQoU .xlsx
